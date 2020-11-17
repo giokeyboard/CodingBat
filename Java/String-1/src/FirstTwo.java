@@ -1,4 +1,4 @@
-public class firstTwo {
+public class FirstTwo {
     public static void main(String[] args) {
         /*
          * Given a string, return the string made of its first two chars, so the String "Hello" yields "He".

@@ -1,4 +1,4 @@
-public class makeTags {
+public class MakeTags {
     public static void main(String[] args) {
         /*
          * The web is built with HTML strings like "<i>Yay</i>" which draws Yay as italic text.

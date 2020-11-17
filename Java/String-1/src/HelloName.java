@@ -1,4 +1,4 @@
-public class helloName {
+public class HelloName {
     public static void main(String[] args) {
         /*
          * Given a string name, e.g. "Bob", return a greeting of the form "Hello Bob!".

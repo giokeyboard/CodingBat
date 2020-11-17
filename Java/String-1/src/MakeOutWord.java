@@ -1,4 +1,4 @@
-public class makeOutWord {
+public class MakeOutWord {
     public static void main(String[] args) {
         /*
          * Given an "out" string length 4, such as "<<>>", and a word, return a new string where
