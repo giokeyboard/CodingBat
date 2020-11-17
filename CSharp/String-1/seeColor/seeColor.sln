@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seeColor", "seeColor\seeColor.csproj", "{2C83696D-A09D-4088-BB04-B2DDDFE8E4DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C83696D-A09D-4088-BB04-B2DDDFE8E4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C83696D-A09D-4088-BB04-B2DDDFE8E4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C83696D-A09D-4088-BB04-B2DDDFE8E4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C83696D-A09D-4088-BB04-B2DDDFE8E4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6169A89-E98A-476B-A078-DAD1713D6EC6}
+	EndGlobalSection
+EndGlobal
