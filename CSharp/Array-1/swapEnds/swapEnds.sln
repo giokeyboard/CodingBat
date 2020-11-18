@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swapEnds", "swapEnds\swapEnds.csproj", "{A476B381-D71B-4A09-A08C-CCB9C16E1036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A476B381-D71B-4A09-A08C-CCB9C16E1036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A476B381-D71B-4A09-A08C-CCB9C16E1036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A476B381-D71B-4A09-A08C-CCB9C16E1036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A476B381-D71B-4A09-A08C-CCB9C16E1036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93119584-F379-4C8F-B475-43EE7E949D4F}
+	EndGlobalSection
+EndGlobal
