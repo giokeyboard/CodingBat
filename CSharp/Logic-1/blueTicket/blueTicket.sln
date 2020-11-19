@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blueTicket", "blueTicket\blueTicket.csproj", "{ADCB996A-D1B5-46B9-8BD4-84F4549CDF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADCB996A-D1B5-46B9-8BD4-84F4549CDF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCB996A-D1B5-46B9-8BD4-84F4549CDF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCB996A-D1B5-46B9-8BD4-84F4549CDF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCB996A-D1B5-46B9-8BD4-84F4549CDF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DD6544A-D7B3-4D2A-9457-0CBCBABD59F7}
+	EndGlobalSection
+EndGlobal
