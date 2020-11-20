@@ -19,14 +19,17 @@ public class MakeBricks {
     }
 
     public static boolean makeBricks(int small, int big, int goal) {
-        if (goal > big * 5 + small) {
-            return false;
-        }
-
-        if (goal % 5 > small) {
-            return false;
-        }
-
-        return true;
+        int smallNeeded = (goal > big * 5) ? goal - big * 5 : goal % 5;
+        return smallNeeded <= small;
+//        ALTERNATIVE SIMPLER SOLUTION:
+//        if (goal > big * 5 + small) {
+//            return false;
+//        }
+//
+//        if (goal % 5 > small) {
+//            return false;
+//        }
+//
+//        return true;
     }
 }

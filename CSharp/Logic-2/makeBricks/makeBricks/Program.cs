@@ -23,13 +23,15 @@ namespace makeBricks
             Console.WriteLine(makeBricks(3, 1, 8));
             Console.WriteLine(makeBricks(3, 1, 9));
             Console.WriteLine(makeBricks(3, 2, 10));
+            Console.WriteLine(makeBricks(1, 4, 11));
+            Console.WriteLine(makeBricks(0, 3, 10));
+            Console.WriteLine(makeBricks(20, 0, 19));
         }
 
         private static bool makeBricks(int small, int big, int goal)
         {
-            if (goal > big * 5 + small) { return false; }
-            if (goal % 5 > small) { return false; }
-            return true;
+            int smallNeeded = (goal > big * 5) ? goal - big * 5 : goal % 5;
+            return smallNeeded <= small;
         }
     }
 }
