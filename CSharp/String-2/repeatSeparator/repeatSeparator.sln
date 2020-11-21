@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repeatSeparator", "repeatSeparator\repeatSeparator.csproj", "{265A47CA-25F4-4016-9FB2-00A0100A6AF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265A47CA-25F4-4016-9FB2-00A0100A6AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265A47CA-25F4-4016-9FB2-00A0100A6AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265A47CA-25F4-4016-9FB2-00A0100A6AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265A47CA-25F4-4016-9FB2-00A0100A6AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B8606CB-7FD0-46C6-88D0-9D9AB083CBC5}
+	EndGlobalSection
+EndGlobal
