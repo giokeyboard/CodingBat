@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "powerN", "powerN\powerN.csproj", "{5495A469-56AE-4832-92C1-3F632ED533B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5495A469-56AE-4832-92C1-3F632ED533B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5495A469-56AE-4832-92C1-3F632ED533B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5495A469-56AE-4832-92C1-3F632ED533B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5495A469-56AE-4832-92C1-3F632ED533B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D308E591-B065-48D0-BAE8-62BA66A0EA08}
+	EndGlobalSection
+EndGlobal
