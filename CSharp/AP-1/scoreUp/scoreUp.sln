@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scoreUp", "scoreUp\scoreUp.csproj", "{38763D53-1F95-4612-BC21-839DFD9A7927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38763D53-1F95-4612-BC21-839DFD9A7927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38763D53-1F95-4612-BC21-839DFD9A7927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38763D53-1F95-4612-BC21-839DFD9A7927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38763D53-1F95-4612-BC21-839DFD9A7927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2961EAB3-E5EB-4C93-BA37-8436EDEDD4A6}
+	EndGlobalSection
+EndGlobal
