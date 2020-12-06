@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mapAB2", "mapAB2\mapAB2.csproj", "{546C8D3A-F4B7-4059-943E-956A4F38FE8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{546C8D3A-F4B7-4059-943E-956A4F38FE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546C8D3A-F4B7-4059-943E-956A4F38FE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546C8D3A-F4B7-4059-943E-956A4F38FE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546C8D3A-F4B7-4059-943E-956A4F38FE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25757C25-6236-44E4-8C1F-B678EAEE7B99}
+	EndGlobalSection
+EndGlobal
